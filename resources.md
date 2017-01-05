@@ -7,6 +7,7 @@
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
+2. [Deploy Heroku with git](https://devcenter.heroku.com/articles/git)
 
 ## Tools
 
