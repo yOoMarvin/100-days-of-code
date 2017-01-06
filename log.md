@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 04, 2017
+### Day 1: January 04, 2017
 
 **Today's Progress**: Did a rework of my quote-machine.
 
@@ -8,7 +8,7 @@
 
 **Link to work:** [GitHub repository](https://github.com/yOoMarvin/quote-machine) // [Codepen Project](http://codepen.io/yOoMarvin/full/Bzmqmx/)
 
-###Day 1: January 05, 2017
+###Day 2: January 05, 2017
 
 **Today's Progress**: Have made some progress on my FrontEndCertificate at FreeCodeCamp. Also worked a bit with npm and node.js. Nothing project related, just some foundations for future work. In the end of the day I've started my rework of the local weather webapp. And I tried a few things with heroku to deploy my apps.
 
