@@ -15,3 +15,11 @@
 **Thoughts**: Fun day, learned a lot new stuff. I think a solid foundation is really important for future projects. I have not coded that much, but still accomplished a lot.
 
 **Link to work**: [GitHub repository of weather app](https://github.com/yOoMarvin/local-weather) // [Link to webapp](https://yoomarvin-local-weather.herokuapp.com/index.html)
+
+###Day 3: January 06, 2017
+
+**Today's Progress**: Finisehd the rework of the local weather app.
+
+**Thoughts**: Again nothing too complicated today. Just getting things started. Building foundations and making more complex stuff in the future is a goal.
+
+**Link to work**:[GitHub repository of weather app](https://github.com/yOoMarvin/local-weather)
