@@ -23,3 +23,11 @@
 **Thoughts**: Again nothing too complicated today. Just getting things started. Building foundations and making more complex stuff in the future is a goal.
 
 **Link to work**:[GitHub repository of weather app](https://github.com/yOoMarvin/local-weather)
+
+###Day 4: January 08, 2017
+
+**Today's Progress**: Started a new project for my FrontEndCertificate. The wikipedia viewer. Also did some node tutorials.
+
+**Thoughts**: Things getting better and easier. I can start new projects faster and get the basic stuff done a lot faster.
+
+**Link to work**:[GitHub repository of weather app](https://github.com/yOoMarvin/wiki-viewer)
