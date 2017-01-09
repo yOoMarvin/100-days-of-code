@@ -30,4 +30,12 @@
 
 **Thoughts**: Things getting better and easier. I can start new projects faster and get the basic stuff done a lot faster.
 
-**Link to work**:[GitHub repository of weather app](https://github.com/yOoMarvin/wiki-viewer)
+**Link to work**:[GitHub repository of wiki viewer](https://github.com/yOoMarvin/wiki-viewer)
+
+###Day 5: January 09, 2017
+
+**Today's Progress**: Continued working on the wiki viewer. Also read a lot about javascript.
+
+**Thoughts**: Feeling better and a lot fast. I've already learned a lot, but I think I have to get more comfortable with JavaScript... Continue reading more and do more stuff in the future!
+
+**Link to work**:[GitHub repository of wiki viewer](https://github.com/yOoMarvin/wiki-viewer)
