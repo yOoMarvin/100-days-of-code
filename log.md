@@ -39,3 +39,11 @@
 **Thoughts**: Feeling better and a lot fast. I've already learned a lot, but I think I have to get more comfortable with JavaScript... Continue reading more and do more stuff in the future!
 
 **Link to work**:[GitHub repository of wiki viewer](https://github.com/yOoMarvin/wiki-viewer)
+
+###Day 6: January 10, 2017
+
+**Today's Progress**: Continued working on the wiki viewer. Completed the request and displayed the data
+
+**Thoughts**: Not my best day. I wish a could have accomplished more today, but I think I will finish this project tomorrow. Finally!
+
+**Link to work**:[GitHub repository of wiki viewer](https://github.com/yOoMarvin/wiki-viewer)
