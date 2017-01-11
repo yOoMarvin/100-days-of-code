@@ -54,4 +54,5 @@
 
 **Thoughts**: It was a long, but very productive day! Finally finished this little project and deployed it, too. Check it out :)
 
-**Link to work**:[GitHub repository of wiki viewer](https://github.com/yOoMarvin/wiki-viewer) [Web App](https://yoomarvin-wikiviewer.herokuapp.com)
+**Link to work**:[GitHub repository of wiki viewer](https://github.com/yOoMarvin/wiki-viewer)  
+ [Web App](https://yoomarvin-wikiviewer.herokuapp.com)
