@@ -47,3 +47,11 @@
 **Thoughts**: Not my best day. I wish a could have accomplished more today, but I think I will finish this project tomorrow. Finally!
 
 **Link to work**:[GitHub repository of wiki viewer](https://github.com/yOoMarvin/wiki-viewer)
+
+###Day 7: January 11, 2017
+
+**Today's Progress**: Finished the work on the wiki viewer. Bonus: Deployed it on heroku!
+
+**Thoughts**: It was a long, but very productive day! Finally finished this little project and deployed it, too. Check it out :)
+
+**Link to work**:[GitHub repository of wiki viewer](https://github.com/yOoMarvin/wiki-viewer) [Web App](https://yoomarvin-wikiviewer.herokuapp.com)
