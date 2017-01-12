@@ -55,3 +55,11 @@
 **Thoughts**: It was a long, but very productive day! Finally finished this little project and deployed it, too. Check it out :)
 
 **Link to work**:[GitHub repository of wiki viewer](https://github.com/yOoMarvin/wiki-viewer) // [Web App](https://yoomarvin-wikiviewer.herokuapp.com)
+
+###Day 8: January 12, 2017
+
+**Today's Progress**: Nothing project related but I worked myself through some basic node.js stuff.
+
+**Thoughts**: Today I did not start a new project, but I think tomorrow I will. Maybe something new!
+
+**Link to work**:[Learnyounode](https://github.com/workshopper/learnyounode)

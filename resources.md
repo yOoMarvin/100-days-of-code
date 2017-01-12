@@ -1,6 +1,7 @@
 # Recommended resources
 
 ## Helpful Articles
+1. [The Art of Node](https://github.com/maxogden/art-of-node)
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
