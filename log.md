@@ -63,3 +63,11 @@
 **Thoughts**: Today I did not start a new project, but I think tomorrow I will. Maybe something new!
 
 **Link to work**:[Learnyounode](https://github.com/workshopper/learnyounode)
+
+###Day 9: January 13, 2017
+
+**Today's Progress**: New project! Bitcoin price checker for the web!
+
+**Thoughts**: I started a new project today. I've made a bitcoin price checker in the past for iOS and wanted to do this for the web now! So I created the project structure and coded the basic stuff like layout and style. Good work today!
+
+**Link to work**:[bitcoin price checker repository](https://github.com/yoomarvin/btccheck-web)
