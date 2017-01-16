@@ -71,3 +71,11 @@
 **Thoughts**: I started a new project today. I've made a bitcoin price checker in the past for iOS and wanted to do this for the web now! So I created the project structure and coded the basic stuff like layout and style. Good work today!
 
 **Link to work**:[bitcoin price checker repository](https://github.com/yoomarvin/btccheck-web)
+
+###Day 10: January 16, 2017
+
+**Today's Progress**: After a little break I'm back with my new project and it goes really well!
+
+**Thoughts**: Little break over the weekend. But I had absolutely no problem to get back into it. Today i did another API request and things are getting better and better. Next: Try to visualize data with d3.
+
+**Link to work**:[bitcoin price checker repository](https://github.com/yoomarvin/btccheck-web)
