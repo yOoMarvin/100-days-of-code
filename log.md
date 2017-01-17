@@ -79,3 +79,11 @@
 **Thoughts**: Little break over the weekend. But I had absolutely no problem to get back into it. Today i did another API request and things are getting better and better. Next: Try to visualize data with d3.
 
 **Link to work**:[bitcoin price checker repository](https://github.com/yoomarvin/btccheck-web)
+
+###Day 11: January 17, 2017
+
+**Today's Progress**: Added a new page and fetched history data from api for my new project
+
+**Thoughts**: Things are good and work fine! Tomorrow I will do some work with d3 and finish the project.
+
+**Link to work**:[bitcoin price checker repository](https://github.com/yoomarvin/btccheck-web)
