@@ -87,3 +87,11 @@
 **Thoughts**: Things are good and work fine! Tomorrow I will do some work with d3 and finish the project.
 
 **Link to work**:[bitcoin price checker repository](https://github.com/yoomarvin/btccheck-web)
+
+###Day 12: January 18, 2017
+
+**Today's Progress**: Finished the bitcoin webapp and worked myself through some node.js stuff.
+
+**Thoughts**: It wasn't a big problem to add the graph to the bitcoin page, but d3 isn't that easy. Still got it to work nicely. Getting more familiar with node.js
+
+**Link to work**:[bitcoin price checker repository](https://github.com/yoomarvin/btccheck-web) || [bitcoin price checker webapp](https://yoomarvin-btccheck-web.herokuapp.com) || [node js getting started](https://github.com/heroku/node-js-getting-started)
