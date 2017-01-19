@@ -95,3 +95,11 @@
 **Thoughts**: It wasn't a big problem to add the graph to the bitcoin page, but d3 isn't that easy. Still got it to work nicely. Getting more familiar with node.js
 
 **Link to work**:[bitcoin price checker repository](https://github.com/yoomarvin/btccheck-web) || [bitcoin price checker webapp](https://yoomarvin-btccheck-web.herokuapp.com) || [node js getting started](https://github.com/heroku/node-js-getting-started)
+
+###Day 13: January 19, 2017
+
+**Today's Progress**: Worked myself through the 'leanyounode' project and made a simple node app on heroku to get started. I also continued working on FreeCodeCamp at the backend certificate.
+
+**Thoughts**: Getting warm with node.js! Doing more with that in the future!
+
+**Link to work**:[heroku node app](https://yoomarvin-heroku-node.herokuapp.com/) || [learnyounode solutions](https://github.com/yOoMarvin/learnyounode-solutions)
