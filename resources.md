@@ -2,6 +2,7 @@
 
 ## Helpful Articles
 1. [The Art of Node](https://github.com/maxogden/art-of-node)
+2. [Understanding Express](http://evanhahn.com/understanding-express/)
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
