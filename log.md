@@ -36,7 +36,7 @@
 
 **Today's Progress**: Continued working on the wiki viewer. Also read a lot about javascript.
 
-**Thoughts**: Feeling better and a lot fast. I've already learned a lot, but I think I have to get more comfortable with JavaScript... Continue reading more and do more stuff in the future!
+**Thoughts**: Feeling better and a lot faster. I've already learned a lot, but I think I have to get more comfortable with JavaScript... Continue reading more and do more stuff in the future!
 
 **Link to work**:[GitHub repository of wiki viewer](https://github.com/yOoMarvin/wiki-viewer)
 
@@ -103,3 +103,11 @@
 **Thoughts**: Getting warm with node.js! Doing more with that in the future!
 
 **Link to work**:[heroku node app](https://yoomarvin-heroku-node.herokuapp.com/) || [learnyounode solutions](https://github.com/yOoMarvin/learnyounode-solutions)
+
+###Day 14: January 20, 2017
+
+**Today's Progress**: Worked myself through the expressworks project and did some stuff with express. 
+
+**Thoughts**: Damn, node is awesome! Really like this stuff! But I will pause this for some days and do more stuff with iOS and swift again! Stay tuned!
+
+**Link to work**: [expressworks solutions](https://github.com/yOoMarvin/expressworks-solutions)
