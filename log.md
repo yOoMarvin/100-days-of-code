@@ -106,8 +106,16 @@
 
 ###Day 14: January 20, 2017
 
-**Today's Progress**: Worked myself through the expressworks project and did some stuff with express. 
+**Today's Progress**: Worked myself through the expressworks project and did some stuff with express.
 
 **Thoughts**: Damn, node is awesome! Really like this stuff! But I will pause this for some days and do more stuff with iOS and swift again! Stay tuned!
 
 **Link to work**: [expressworks solutions](https://github.com/yOoMarvin/expressworks-solutions)
+
+###Day 15: January 21, 2017
+
+**Today's Progress**: Started a new project! And it is nothing web related! Back at iOS development!!!
+
+**Thoughts**: So one of my main goals in this challenge was to get fit in iOS development and webdevelopment. Especially node! And today I had more appetite on iOS! Goal of the new app is a speech input url list. I'm excited.
+
+**Link to work**: [hoturl github repository](https://github.com/yOoMarvin/hoturl)
