@@ -119,3 +119,11 @@
 **Thoughts**: So one of my main goals in this challenge was to get fit in iOS development and webdevelopment. Especially node! And today I had more appetite on iOS! Goal of the new app is a speech input url list. I'm excited.
 
 **Link to work**: [hoturl github repository](https://github.com/yOoMarvin/hoturl)
+
+###Day 16: January 22, 2017
+
+**Today's Progress**: Continued the work on my iOS app project and finished the work with the speech input und transcription to text
+
+**Thoughts**: A lot of new stuff! Sometimes a bit too complicated, but I've finally figured it out!
+
+**Link to work**: [hoturl github repository](https://github.com/yOoMarvin/hoturl)
