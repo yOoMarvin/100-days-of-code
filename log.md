@@ -127,3 +127,11 @@
 **Thoughts**: A lot of new stuff! Sometimes a bit too complicated, but I've finally figured it out!
 
 **Link to work**: [hoturl github repository](https://github.com/yOoMarvin/hoturl)
+
+###Day 17: January 23, 2017
+
+**Today's Progress**: Added the saving functionality to the url app. And also added comments
+
+**Thoughts**: So much new stuff. But I love it! Sometimes a bit hard to figure things out, but I think I am on the right track! Looking foorward!
+
+**Link to work**: [hoturl github repository](https://github.com/yOoMarvin/hoturl)
