@@ -135,3 +135,11 @@
 **Thoughts**: So much new stuff. But I love it! Sometimes a bit hard to figure things out, but I think I am on the right track! Looking foorward!
 
 **Link to work**: [hoturl github repository](https://github.com/yOoMarvin/hoturl)
+
+###Day 18: January 24, 2017
+
+**Today's Progress**: Added Core Data functionality to the url app.
+
+**Thoughts**: Damn core data is hard! But also interesting. Have to to more with it in the future to get fit! But the app is nice. I really like it!
+
+**Link to work**: [hoturl github repository](https://github.com/yOoMarvin/hoturl)
