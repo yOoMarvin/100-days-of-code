@@ -21,6 +21,7 @@
 4. [iOS Human Interface guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/)
 5. [Awesome iOS](https://github.com/vsouza/awesome-ios)
 6. [iOS best practices](https://github.com/futurice/ios-good-practices)
+7. [iOS App Extensions](https://developer.apple.com/library/content/documentation/General/Conceptual/ExtensibilityPG/)
 
 
 ## Tools
