@@ -151,3 +151,11 @@
 **Thoughts**: On the branch rework I've made some adjustments and tried some things out. The goal was just to make some changes to the existing code. Get out of that comfort zone. And this was a good idea! Loose the fear of changing stuff is important! Already have some ideas in my mind for the next features
 
 **Link to work**: [hoturl github repository](https://github.com/yOoMarvin/hoturl)
+
+###Day 20: January 26, 2017
+
+**Today's Progress**: Idea and preparation for a new app feature! Share extension!
+
+**Thoughts**: Added some comments and reviewed my code. I've also had an idea for the new feature I want to learn about, so I will make a share extension in the next days. This will be hard... but awesome! Want to master iOS so damn hard!
+
+**Link to work**: [hoturl github repository](https://github.com/yOoMarvin/hoturl)
