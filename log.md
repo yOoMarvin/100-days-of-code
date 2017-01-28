@@ -159,3 +159,17 @@
 **Thoughts**: Added some comments and reviewed my code. I've also had an idea for the new feature I want to learn about, so I will make a share extension in the next days. This will be hard... but awesome! Want to master iOS so damn hard!
 
 **Link to work**: [hoturl github repository](https://github.com/yOoMarvin/hoturl)
+
+###Day 21: January 27, 2017
+
+**Today's Progress**: Pause today!
+
+**Link to work**: [hoturl github repository](https://github.com/yOoMarvin/hoturl)
+
+###Day 22: January 28, 2017
+
+**Today's Progress**: Paused the hoturl app because of a problem and started a new one!
+
+**Thoughts**: I've had some trouble with the app group of the hot url for the share extension. Some stuff with the certificate of the apple account. So I will pause this one until I've figured out a solution. But I've already started a new app! It it a converter for several color codes. Today I've made the design and concept and I think it will be reaaaally nice! Stay tuned!
+
+**Link to work**: [hexhex ui](https://xd.adobe.com/view/60d6207b-cc6b-4acf-a0aa-8dddf24e07b6/)
