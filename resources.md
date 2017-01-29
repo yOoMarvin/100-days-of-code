@@ -29,7 +29,7 @@
 ## Books (both coding and non-coding)
 
 ### Non-Coding
-
+1. [The obstacle is the way](https://www.amazon.de/Obstacle-Way-Ancient-Adversity-Advantage-ebook/dp/B00IX49OS4/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1485700774&sr=8-1)
 
 ### Coding
 
