@@ -173,3 +173,11 @@
 **Thoughts**: I've had some trouble with the app group of the hot url for the share extension. Some stuff with the certificate of the apple account. So I will pause this one until I've figured out a solution. But I've already started a new app! It it a converter for several color codes. Today I've made the design and concept and I think it will be reaaaally nice! Stay tuned!
 
 **Link to work**: [hexhex ui](https://xd.adobe.com/view/60d6207b-cc6b-4acf-a0aa-8dddf24e07b6/)
+
+###Day 23: January 29, 2017
+
+**Today's Progress**: Finished the concept of my new app and tried some things out.
+
+**Thoughts**: Good and really productive day! Tried some things out in the swift playground. Mainly the logic of the new app. So I've tried to convert hex strings to UIColors and back. Made a public gist so you can check it out!
+
+**Link to work**: [hexhex ui](https://xd.adobe.com/view/60d6207b-cc6b-4acf-a0aa-8dddf24e07b6/) || [hex converter gist](https://gist.github.com/yOoMarvin/9697835a722d72be7c485b3f1d2d3614)
