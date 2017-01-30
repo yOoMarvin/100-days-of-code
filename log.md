@@ -181,3 +181,11 @@
 **Thoughts**: Good and really productive day! Tried some things out in the swift playground. Mainly the logic of the new app. So I've tried to convert hex strings to UIColors and back. Made a public gist so you can check it out!
 
 **Link to work**: [hexhex ui](https://xd.adobe.com/view/60d6207b-cc6b-4acf-a0aa-8dddf24e07b6/) || [hex converter gist](https://gist.github.com/yOoMarvin/9697835a722d72be7c485b3f1d2d3614)
+
+###Day 24: January 30, 2017
+
+**Today's Progress**: Discovered Code Wars and really got lost into it.
+
+**Thoughts**: This day was actually pretty cool. So no direct app development, but I've discovered Code Wars, an online community for coding challenges. I will do more with it in the future and improve my general Swift and programming skill! Awesome!
+
+**Link to work**: [Code Wars](https://www.codewars.com/)
