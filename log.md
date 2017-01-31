@@ -189,3 +189,11 @@
 **Thoughts**: This day was actually pretty cool. So no direct app development, but I've discovered Code Wars, an online community for coding challenges. I will do more with it in the future and improve my general Swift and programming skill! Awesome!
 
 **Link to work**: [Code Wars](https://www.codewars.com/)
+
+###Day 25: January 31, 2017
+
+**Today's Progress**: Started the new project in xCode
+
+**Thoughts**: Things getting serious! Started the new app and tried some stuff out in the storyboard. First some basic styles. Next up is the logic!
+
+**Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)
