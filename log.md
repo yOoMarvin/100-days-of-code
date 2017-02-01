@@ -197,3 +197,11 @@
 **Thoughts**: Things getting serious! Started the new app and tried some stuff out in the storyboard. First some basic styles. Next up is the logic!
 
 **Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)
+
+###Day 26: February 01, 2017
+
+**Today's Progress**: Today was a code wars day again! Did more swift katas and feelin good!
+
+**Thoughts**: Code Wars is awesome! It's such an awesome feeling when you find a challenge that won't get out of your head and you need to solve it. I really want to master swift and I guess this is good way. Some iOS apps and additionally some general coding challenges. Maybe I will be doing a repo with some katas of swift. Oh, I also discovered some nice screencasts, youtube channels, medium publications and podcasts on ios and swift. Really diving deep into it now!
+
+**Link to work**: [Code Wars](https://www.codewars.com/)

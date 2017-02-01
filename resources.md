@@ -5,6 +5,8 @@
 2. [Understanding Express](http://evanhahn.com/understanding-express/)
 3. [Express generator](https://shapeshed.com/creating-a-basic-site-with-node-and-express/)
 4. [xCode and GitHub](https://www.raywenderlich.com/51351/how-to-use-git-source-control-with-xcode-in-ios-7)
+5. [How to lean iOS development](https://medium.com/@sandofsky/how-to-learn-ios-development-13158b68a57b#.ljod7uu5o)
+6. [14 must knows for an iOS developer](https://swiftsailing.net/14-must-knows-for-an-ios-developer-5ae502d7d87f#.6w23meoz1)
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
