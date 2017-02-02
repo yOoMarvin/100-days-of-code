@@ -205,3 +205,11 @@
 **Thoughts**: Code Wars is awesome! It's such an awesome feeling when you find a challenge that won't get out of your head and you need to solve it. I really want to master swift and I guess this is good way. Some iOS apps and additionally some general coding challenges. Maybe I will be doing a repo with some katas of swift. Oh, I also discovered some nice screencasts, youtube channels, medium publications and podcasts on ios and swift. Really diving deep into it now!
 
 **Link to work**: [Code Wars](https://www.codewars.com/)
+
+###Day 27: February 02, 2017
+
+**Today's Progress**: Continued the new app! Played a bit with ui elements and dynamic changes
+
+**Thoughts**: Needed some time today to get in the new topic. Thought things were easier, but now I'm into it! Tomorrow I will update the functionality and weekend will be needed to update the UI, so things are a bit more beautiful
+
+**Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)
