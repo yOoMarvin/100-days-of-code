@@ -7,6 +7,8 @@
 4. [xCode and GitHub](https://www.raywenderlich.com/51351/how-to-use-git-source-control-with-xcode-in-ios-7)
 5. [How to lean iOS development](https://medium.com/@sandofsky/how-to-learn-ios-development-13158b68a57b#.ljod7uu5o)
 6. [14 must knows for an iOS developer](https://swiftsailing.net/14-must-knows-for-an-ios-developer-5ae502d7d87f#.6w23meoz1)
+7. [Swift in Atom](https://medium.com/@Aciid/hacking-atom-to-create-a-swift-ide-that-runs-on-linux-and-mac-c7d9520a0fac#.483glikx9)
+8. [Build Apps without Storyboard](http://swiftandpainless.com/how-to-bild-an-app-without-interface-builder-part-2-sketches-structure-tests/)
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
@@ -25,6 +27,7 @@
 6. [iOS best practices](https://github.com/futurice/ios-good-practices)
 7. [iOS App Extensions](https://developer.apple.com/library/content/documentation/General/Conceptual/ExtensibilityPG/)
 8. [Code Wars](https://www.codewars.com/)
+9. [Coding Dojo Katas](http://codingdojo.org/kata/)
 
 ## Tools
 
