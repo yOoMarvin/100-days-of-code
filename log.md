@@ -213,3 +213,7 @@
 **Thoughts**: Needed some time today to get in the new topic. Thought things were easier, but now I'm into it! Tomorrow I will update the functionality and weekend will be needed to update the UI, so things are a bit more beautiful
 
 **Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)
+
+###Day 28: February 03, 2017
+
+**Today's Progress**: When you lay down in bed with nearly 40° C feever, you are not in the mood to code :(
