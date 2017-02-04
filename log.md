@@ -217,3 +217,11 @@
 ###Day 28: February 03, 2017
 
 **Today's Progress**: When you lay down in bed with nearly 40° C feever, you are not in the mood to code :(
+
+###Day 29: February 04, 2017
+
+**Today's Progress**: Added some more logic and functionality to the app
+
+**Thoughts**: Well, I'm still ill and my brain does not work as usual. Had some problems with the app today and tried a lot of things out. Tomorrow I will try to do a complete rework of the app. I'm not proud of the results today. This has to get better!
+
+**Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)  

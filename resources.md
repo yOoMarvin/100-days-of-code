@@ -9,6 +9,7 @@
 6. [14 must knows for an iOS developer](https://swiftsailing.net/14-must-knows-for-an-ios-developer-5ae502d7d87f#.6w23meoz1)
 7. [Swift in Atom](https://medium.com/@Aciid/hacking-atom-to-create-a-swift-ide-that-runs-on-linux-and-mac-c7d9520a0fac#.483glikx9)
 8. [Build Apps without Storyboard](http://swiftandpainless.com/how-to-bild-an-app-without-interface-builder-part-2-sketches-structure-tests/)
+9. [Input Edit Change](http://supereasyapps.com/blog/2015/7/24/how-to-get-uitextfield-text-changed-events-for-your-validation-logic-swift-tips-1)
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
