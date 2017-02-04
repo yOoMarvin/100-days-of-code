@@ -18,6 +18,8 @@
 4. [Wiki viewer](https://github.com/yOoMarvin/wiki-viewer)
 5. [Bitcoin price checker (web)](https://github.com/yoomarvin/btccheck-web)
 6. [Heroku node app](https://yoomarvin-heroku-node.herokuapp.com/)
+7. [HotUrl iOS app](https://github.com/yOoMarvin/hoturl)
+8. [HexHex Color Converter iOS app](https://github.com/yOoMarvin/hexhex)
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
