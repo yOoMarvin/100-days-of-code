@@ -224,4 +224,12 @@
 
 **Thoughts**: Well, I'm still ill and my brain does not work as usual. Had some problems with the app today and tried a lot of things out. Tomorrow I will try to do a complete rework of the app. I'm not proud of the results today. This has to get better!
 
-**Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)  
+**Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)
+
+###Day 30: February 05, 2017
+
+**Today's Progress**: Good Day. Started the rework of the app!
+
+**Thoughts**: And I'm back at it. Still ill, but it's getting better. Lay down in bed and start coding! The rework of the concept of the app was really important. This time I made the things simpler and with more ease. I can still do the harder stuff in the future, I have time. Good day today. Have to keep it up! Also I have to rework the UI of the app, the old link is outdated.
+
+**Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)   
