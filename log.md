@@ -238,6 +238,6 @@
 
 **Today's Progress**: Did the other part of the logic for converting and fixed some bugs. Also improved the structure
 
-**Thoughts**: Really productive day! But dude, I have to get better and think more about my changes and the stuff. Maybe I should dive more into test driven development with swift. I think this would make things a lot easier. But still, I fixed a lot of stuff today and did the major part of the apps logi. Tomorrow I will try to make the interface nice and add some nice to have stuff.
+**Thoughts**: Really productive day! But dude, I have to get better and think more about my changes and the stuff. Maybe I should dive more into test driven development with swift. I think this would make things a lot easier. But still, I fixed a lot of stuff today and did the major part of the apps logic. Tomorrow I will try to make the interface nice and add some nice to have stuff.
 
 **Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)    
