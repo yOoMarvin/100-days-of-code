@@ -232,4 +232,12 @@
 
 **Thoughts**: And I'm back at it. Still ill, but it's getting better. Lay down in bed and start coding! The rework of the concept of the app was really important. This time I made the things simpler and with more ease. I can still do the harder stuff in the future, I have time. Good day today. Have to keep it up! Also I have to rework the UI of the app, the old link is outdated.
 
-**Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)   
+**Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)
+
+###Day 31: February 06, 2017
+
+**Today's Progress**: Did the other part of the logic for converting and fixed some bugs. Also improved the structure
+
+**Thoughts**: Really productive day! But dude, I have to get better and think more about my changes and the stuff. Maybe I should dive more into test driven development with swift. I think this would make things a lot easier. But still, I fixed a lot of stuff today and did the major part of the apps logi. Tomorrow I will try to make the interface nice and add some nice to have stuff.
+
+**Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)    
