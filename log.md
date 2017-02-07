@@ -240,4 +240,12 @@
 
 **Thoughts**: Really productive day! But dude, I have to get better and think more about my changes and the stuff. Maybe I should dive more into test driven development with swift. I think this would make things a lot easier. But still, I fixed a lot of stuff today and did the major part of the apps logic. Tomorrow I will try to make the interface nice and add some nice to have stuff.
 
-**Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)    
+**Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)
+
+###Day 32: February 07, 2017
+
+**Today's Progress**: A lot of improvment for the color converter and nearly finished the design
+
+**Thoughts**: If you dig deep enough, you find always an error. So this was it today. But I feel good and I made a lot of good decisions and improvment. Maybe i can finish the app tomorrow.
+
+**Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)     
