@@ -244,8 +244,16 @@
 
 ###Day 32: February 07, 2017
 
-**Today's Progress**: A lot of improvment for the color converter and nearly finished the design
+**Today's Progress**: A lot of improvement for the color converter and nearly finished the design
 
-**Thoughts**: If you dig deep enough, you find always an error. So this was it today. But I feel good and I made a lot of good decisions and improvment. Maybe i can finish the app tomorrow.
+**Thoughts**: If you dig deep enough, you find always an error. So this was it today. But I feel good and I made a lot of good decisions and improvement. Maybe i can finish the app tomorrow.
 
 **Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)     
+
+###Day 323 February 08, 2017
+
+**Today's Progress**: Finished my iOS App!
+
+**Thoughts**: So, finally I've finished my color converter iOS app. It was a lot of fun and i've learned a lot of stuff! I will definitely come back at this one, because there are still 1-2 things to improve. And oh, I have to design an app icon! Well, I guess I'm looking for a new challenge now!
+
+**Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)   
