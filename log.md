@@ -250,10 +250,17 @@
 
 **Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)     
 
-###Day 323 February 08, 2017
+###Day 33 February 08, 2017
 
 **Today's Progress**: Finished my iOS App!
 
 **Thoughts**: So, finally I've finished my color converter iOS app. It was a lot of fun and i've learned a lot of stuff! I will definitely come back at this one, because there are still 1-2 things to improve. And oh, I have to design an app icon! Well, I guess I'm looking for a new challenge now!
 
 **Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)   
+
+###Day 34 February 09, 2017
+
+**Today's Progress**: New challenge? Making an iOS game!
+
+**Thoughts**: Because I'm a little gamer and I love games I'm now using my 100daysofcode challenge to get into ios game development. Found some resources and coded some stuff down. Goal? Do a simple version of the game classic pong.
+**Link to work**: [pong github repo](https://github.com/yOoMarvin/pong)  
