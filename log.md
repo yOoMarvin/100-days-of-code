@@ -264,3 +264,5 @@
 
 **Thoughts**: Because I'm a little gamer and I love games I'm now using my 100daysofcode challenge to get into ios game development. Found some resources and coded some stuff down. Goal? Do a simple version of the game classic pong.
 **Link to work**: [pong github repo](https://github.com/yOoMarvin/pong)  
+
+**Going to make a little break over the weekend. I'm also setting new goals, think of new ideas and read a lot, so no real breal, just now coding. I think I will continue Monday with Day 35.**
