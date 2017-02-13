@@ -263,6 +263,15 @@
 **Today's Progress**: New challenge? Making an iOS game!
 
 **Thoughts**: Because I'm a little gamer and I love games I'm now using my 100daysofcode challenge to get into ios game development. Found some resources and coded some stuff down. Goal? Do a simple version of the game classic pong.
+
 **Link to work**: [pong github repo](https://github.com/yOoMarvin/pong)  
 
 **Going to make a little break over the weekend. I'm also setting new goals, think of new ideas and read a lot, so no real breal, just now coding. I think I will continue Monday with Day 35.**
+
+###Day 35 February 13, 2017
+
+**Today's Progress**: Continued the iOS game and it makes so much fun!
+
+**Thoughts**: I'm back after a short break and going to do more and new stuff. Diving in new fields, master old ones etc. I've already learned so much with this challenge and I will learn so much more. Let's go. BTW: iOS game development is soo cool! Check it out!
+
+**Link to work**: [pong github repo](https://github.com/yOoMarvin/pong)
