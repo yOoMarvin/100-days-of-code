@@ -275,3 +275,11 @@
 **Thoughts**: I'm back after a short break and going to do more and new stuff. Diving in new fields, master old ones etc. I've already learned so much with this challenge and I will learn so much more. Let's go. BTW: iOS game development is soo cool! Check it out!
 
 **Link to work**: [pong github repo](https://github.com/yOoMarvin/pong)
+
+###Day 36 February 14, 2017
+
+**Today's Progress**: Finished my first iOS game!
+
+**Thoughts**: Well... let's code on Valentines Day! I've finished my first game, the pong classic and the game development on iOS is awesome! I will definitely do more in the future! Stay tuned! Now I'm looking for new challenges. Maybe some coding katas or a new app. Weather would be a classic one.
+
+**Link to work**: [pong github repo](https://github.com/yOoMarvin/pong)
