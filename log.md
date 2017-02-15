@@ -266,7 +266,7 @@
 
 **Link to work**: [pong github repo](https://github.com/yOoMarvin/pong)  
 
-**Going to make a little break over the weekend. I'm also setting new goals, think of new ideas and read a lot, so no real breal, just now coding. I think I will continue Monday with Day 35.**
+**Going to make a little break over the weekend. I'm also setting new goals, think of new ideas and read a lot, so no real break, just no coding. I think I will continue Monday with Day 35.**
 
 ###Day 35 February 13, 2017
 
