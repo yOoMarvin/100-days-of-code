@@ -266,7 +266,7 @@
 
 **Link to work**: [pong github repo](https://github.com/yOoMarvin/pong)  
 
-**Going to make a little break over the weekend. I'm also setting new goals, think of new ideas and read a lot, so no real break, just no coding. I think I will continue Monday with Day 35.**
+**Going to make a little break over the weekend. I'm also setting new goals, think of new ideas and read a lot, so no real breal, just now coding. I think I will continue Monday with Day 35.**
 
 ###Day 35 February 13, 2017
 
@@ -283,3 +283,11 @@
 **Thoughts**: Well... let's code on Valentines Day! I've finished my first game, the pong classic and the game development on iOS is awesome! I will definitely do more in the future! Stay tuned! Now I'm looking for new challenges. Maybe some coding katas or a new app. Weather would be a classic one.
 
 **Link to work**: [pong github repo](https://github.com/yOoMarvin/pong)
+
+###Day 37 February 15, 2017
+
+**Today's Progress**: Started a new iOS app to get familiar with app localization. For example switch texts on language change etc.
+
+**Thoughts**: Init a new project and I have to say that basic stuff goes fast now. So fast I've totally forgot to commit changes. Still stuck at the stuff which is new but I guess that is normal. I think this project will be done fast, because it isn't a large topic. Already planning for something new.
+
+**Link to work**: [zoo ios localization repo](https://github.com/yOoMarvin/zoo-ios-localization)
