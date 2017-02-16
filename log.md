@@ -291,3 +291,11 @@
 **Thoughts**: Init a new project and I have to say that basic stuff goes fast now. So fast I've totally forgot to commit changes. Still stuck at the stuff which is new but I guess that is normal. I think this project will be done fast, because it isn't a large topic. Already planning for something new.
 
 **Link to work**: [zoo ios localization repo](https://github.com/yOoMarvin/zoo-ios-localization)
+
+###Day 38 February 16, 2017
+
+**Today's Progress**: Continued the work with ios localization and made basic translations.
+
+**Thoughts**: Well, what should I say... It isn't a reaaally interesting topic, but I have to go through it. It's important I know, I will definitely need in in the future. In the back of my head I'm already making up the nex app ideas. Tuned for it!
+
+**Link to work**: [zoo ios localization repo](https://github.com/yOoMarvin/zoo-ios-localization)
