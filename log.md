@@ -299,3 +299,11 @@
 **Thoughts**: Well, what should I say... It isn't a reaaally interesting topic, but I have to go through it. It's important I know, I will definitely need in in the future. In the back of my head I'm already making up the nex app ideas. Tuned for it!
 
 **Link to work**: [zoo ios localization repo](https://github.com/yOoMarvin/zoo-ios-localization)
+
+###Day 39 February 17, 2017
+
+**Today's Progress**: Finished the example app for ios localization.
+
+**Thoughts**: Not my favorite topic but I've worked myself through it. Had to be. Now I'm thinking of new app ideas! Stay tuned! 
+
+**Link to work**: [zoo ios localization repo](https://github.com/yOoMarvin/zoo-ios-localization)
