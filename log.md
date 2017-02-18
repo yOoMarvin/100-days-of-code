@@ -304,6 +304,14 @@
 
 **Today's Progress**: Finished the example app for ios localization.
 
-**Thoughts**: Not my favorite topic but I've worked myself through it. Had to be. Now I'm thinking of new app ideas! Stay tuned! 
+**Thoughts**: Not my favorite topic but I've worked myself through it. Had to be. Now I'm thinking of new app ideas! Stay tuned!
 
 **Link to work**: [zoo ios localization repo](https://github.com/yOoMarvin/zoo-ios-localization)
+
+###Day 40 February 18, 2017
+
+**Today's Progress**: Did some coding katas on code wars.
+
+**Thoughts**: Get deeper in language stuff etc. Thinking of new app challenges. Maybe I will do something with geolocations.
+
+**Link to work**: [Code Wars](https://www.codewars.com/)
