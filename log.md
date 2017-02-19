@@ -315,3 +315,11 @@
 **Thoughts**: Get deeper in language stuff etc. Thinking of new app challenges. Maybe I will do something with geolocations.
 
 **Link to work**: [Code Wars](https://www.codewars.com/)
+
+###Day 41 February 19, 2017
+
+**Today's Progress**: Started a knew app and thought of new app projects
+
+**Thoughts**: So finally I've started a new app. After some thinking I guess I'm going in the right direction. Notifications are a really important topic and new structured in iOS 10. So, it's time to get familiar with it!
+
+**Link to work**: [simple seconds timer github repo](https://github.com/yOoMarvin/simpleseconds-ios-timer)
