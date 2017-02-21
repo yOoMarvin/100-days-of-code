@@ -323,3 +323,13 @@
 **Thoughts**: So finally I've started a new app. After some thinking I guess I'm going in the right direction. Notifications are a really important topic and new structured in iOS 10. So, it's time to get familiar with it!
 
 **Link to work**: [simple seconds timer github repo](https://github.com/yOoMarvin/simpleseconds-ios-timer)
+
+###Day 42 February 20, 2017
+
+**Today's Progress**: No Coding, but read a lot of articles.
+
+**Thoughts**: Well, no coding is not true, I did some swift katas on code wars, but I did not do something project related.
+
+###Day 43 February 21, 2017
+
+**Today's Progress**: Paused for today! Back with the timer app tomorrow
