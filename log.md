@@ -333,3 +333,11 @@
 ###Day 43 February 21, 2017
 
 **Today's Progress**: Paused for today! Back with the timer app tomorrow
+
+###Day 44 February 22, 2017
+
+**Today's Progress**: Continued the work on the timer app and got basic stuff with notifications done.
+
+**Thoughts**: Back at xCode. Feeling like coming home when I click the xCode icon. Good feeling! I really feel my progress. Notifications are such an important topic.  I will definitely finish this one!
+
+**Link to work**: [simple seconds timer github repo](https://github.com/yOoMarvin/simpleseconds-ios-timer)
