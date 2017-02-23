@@ -341,3 +341,11 @@
 **Thoughts**: Back at xCode. Feeling like coming home when I click the xCode icon. Good feeling! I really feel my progress. Notifications are such an important topic.  I will definitely finish this one!
 
 **Link to work**: [simple seconds timer github repo](https://github.com/yOoMarvin/simpleseconds-ios-timer)
+
+###Day 45 February 22, 2017
+
+**Today's Progress**: Finished the timer app in the main parts!
+
+**Thoughts**: So I have the key functionality of my timer app now. Maybe I will do something on the ui or try to improve things. Or maybe I move on to the next challenge. Let's see!
+
+**Link to work**: [simple seconds timer github repo](https://github.com/yOoMarvin/simpleseconds-ios-timer)
