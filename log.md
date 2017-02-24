@@ -342,10 +342,18 @@
 
 **Link to work**: [simple seconds timer github repo](https://github.com/yOoMarvin/simpleseconds-ios-timer)
 
-###Day 45 February 22, 2017
+###Day 45 February 23, 2017
 
 **Today's Progress**: Finished the timer app in the main parts!
 
 **Thoughts**: So I have the key functionality of my timer app now. Maybe I will do something on the ui or try to improve things. Or maybe I move on to the next challenge. Let's see!
 
 **Link to work**: [simple seconds timer github repo](https://github.com/yOoMarvin/simpleseconds-ios-timer)
+
+###Day 46 February 24, 2017
+
+**Today's Progress**: Did some code wars challenges!
+
+**Thoughts**: Not much time today, so I did some code wars challenges. Try to work on app stuff tomorrow.
+
+**Link to work**: [Code Wars](https://www.codewars.com/)
