@@ -357,3 +357,15 @@
 **Thoughts**: Not much time today, so I did some code wars challenges. Try to work on app stuff tomorrow.
 
 **Link to work**: [Code Wars](https://www.codewars.com/)
+
+###Day 47 February 25, 2017
+
+**Today's Progress**: Paused today on this awesome sunny day!
+
+###Day 48 February 26, 2017
+
+**Today's Progress**: Did some code wars challenges again. Thinking of new app ideas
+
+**Thoughts**: After the little break yesterday I'm back with some coding katas. Definitely will start a new app tomorrow or the day after! I have some ideas in my head!
+
+**Link to work**: [Code Wars](https://www.codewars.com/)
