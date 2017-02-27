@@ -20,6 +20,10 @@
 6. [Heroku node app](https://yoomarvin-heroku-node.herokuapp.com/)
 7. [HotUrl iOS app](https://github.com/yOoMarvin/hoturl)
 8. [HexHex Color Converter iOS app](https://github.com/yOoMarvin/hexhex)
+9. [Pong iOS game](https://github.com/yOoMarvin/pong)
+10. [Zoo iOS app about localization](https://github.com/yOoMarvin/zoo-ios-localization)
+11. [Simple Seconds iOS timer](https://github.com/yOoMarvin/simpleseconds-ios-timer)
+12. [iOS reader](https://github.com/yOoMarvin/reader)
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
