@@ -369,3 +369,11 @@
 **Thoughts**: After the little break yesterday I'm back with some coding katas. Definitely will start a new app tomorrow or the day after! I have some ideas in my head!
 
 **Link to work**: [Code Wars](https://www.codewars.com/)
+
+###Day 49 February 27, 2017
+
+**Today's Progress**: Read a lot of stuff and started a new iOS app! A simple xml feed reader
+
+**Thoughts**: Time for new iOS stuff! Just a simple reader app but effective! Want to learn something about ui collection views and xml feed and I guess this is the perfect way!
+
+**Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
