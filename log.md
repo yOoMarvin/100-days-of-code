@@ -377,3 +377,11 @@
 **Thoughts**: Time for new iOS stuff! Just a simple reader app but effective! Want to learn something about ui collection views and xml feed and I guess this is the perfect way!
 
 **Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
+
+###Day 50 February 28, 2017
+
+**Today's Progress**: Worked with the CollectionView and the layout of cells for the reader app!
+
+**Thoughts**: Something new today! I've read a lot about the UICollectionView and tried some things out. Nice element! Also got some stuff done with the flow layout.
+
+**Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
