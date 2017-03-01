@@ -385,3 +385,11 @@
 **Thoughts**: Something new today! I've read a lot about the UICollectionView and tried some things out. Nice element! Also got some stuff done with the flow layout.
 
 **Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
+
+###Day 51 March 01, 2017
+
+**Today's Progress**: Read some articles and got stuck on XML stuff.
+
+**Thoughts**: Damn it's already March! Time goes by fast! Not much coding today, but I read a lot. Then I've tried some stuff with the reader app and reading xml, but I've coded myself in a wrong direction and have to take a step back. Hopefully I will be have a new vision tomorrow! Tuned!
+
+**Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
