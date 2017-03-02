@@ -393,3 +393,11 @@
 **Thoughts**: Damn it's already March! Time goes by fast! Not much coding today, but I read a lot. Then I've tried some stuff with the reader app and reading xml, but I've coded myself in a wrong direction and have to take a step back. Hopefully I will be have a new vision tomorrow! Tuned!
 
 **Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
+
+###Day 52 March 02, 2017
+
+**Today's Progress**: Finally fixed my xml bug and articles are displayed now!
+
+**Thoughts**: Sometimes I'm just stupid :D I had such n stupid error, but I've found it! Just change the number of sections and voilà, the articles are displayed. Learned a lot about the collection view and xml parsing! Now make it beautiful and add some functionality.
+
+**Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
