@@ -401,3 +401,11 @@
 **Thoughts**: Sometimes I'm just stupid :D I had such n stupid error, but I've found it! Just change the number of sections and voilà, the articles are displayed. Learned a lot about the collection view and xml parsing! Now make it beautiful and add some functionality.
 
 **Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
+
+###Day 53 March 03, 2017
+
+**Today's Progress**: Continued the work on the reader app and made improvments to the layout
+
+**Thoughts**: Nice day! Good work, good tempo. Added the download and the processing of the article images. Also made some changes to the layout of the collection view
+
+**Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
