@@ -409,3 +409,11 @@
 **Thoughts**: Nice day! Good work, good tempo. Added the download and the processing of the article images. Also made some changes to the layout of the collection view
 
 **Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
+
+###Day 54 March 04, 2017
+
+**Today's Progress**: Not much today, but something! Added just some usability things
+
+**Thoughts**: Nearing the end! Maybe finish it tomorrow! :)
+
+**Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
