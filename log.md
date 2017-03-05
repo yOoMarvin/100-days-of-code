@@ -417,3 +417,11 @@
 **Thoughts**: Nearing the end! Maybe finish it tomorrow! :)
 
 **Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
+
+###Day 55 March 05, 2017
+
+**Today's Progress**: Added the detail web view for articles!
+
+**Thoughts**: Good day. Found some errors and fixed them quickly. Feeling good with ios and swift! I think I can finish the app tomorrow! 
+
+**Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
