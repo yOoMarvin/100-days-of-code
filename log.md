@@ -422,6 +422,14 @@
 
 **Today's Progress**: Added the detail web view for articles!
 
-**Thoughts**: Good day. Found some errors and fixed them quickly. Feeling good with ios and swift! I think I can finish the app tomorrow! 
+**Thoughts**: Good day. Found some errors and fixed them quickly. Feeling good with ios and swift! I think I can finish the app tomorrow!
+
+**Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
+
+###Day 56 March 06, 2017
+
+**Today's Progress**: Finished my reader app!
+
+**Thoughts**: And the next little project is finished! Feeling really good and comfortable with ios and swift now. But I know that I have to learn still a lot of stuff. Moving to the next one!
 
 **Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
