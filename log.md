@@ -433,3 +433,11 @@
 **Thoughts**: And the next little project is finished! Feeling really good and comfortable with ios and swift now. But I know that I have to learn still a lot of stuff. Moving to the next one!
 
 **Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
+
+###Day 57 March 07, 2017
+
+**Today's Progress**: Code Wars day!
+
+**Thoughts**: Looking for a new challenge. So I've just did some litte coding katas in swift, read some articles and watched a good amount of videos. I think I know what I'm doing next as a project.
+
+**Link to work**: [Code Wars](https://www.codewars.com/)
