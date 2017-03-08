@@ -441,3 +441,11 @@
 **Thoughts**: Looking for a new challenge. So I've just did some litte coding katas in swift, read some articles and watched a good amount of videos. I think I know what I'm doing next as a project.
 
 **Link to work**: [Code Wars](https://www.codewars.com/)
+
+###Day 58 March 08, 2017
+
+**Today's Progress**: Started a new project!
+
+**Thoughts**: Time to review some stuff about core data, also trying to learn some stuff about the camera and handling pictures. This will be nice!
+
+**Link to work**: [iOS simplecam GitHub repository](https://github.com/yOoMarvin/simplecam)
