@@ -449,3 +449,11 @@
 **Thoughts**: Time to review some stuff about core data, also trying to learn some stuff about the camera and handling pictures. This will be nice!
 
 **Link to work**: [iOS simplecam GitHub repository](https://github.com/yOoMarvin/simplecam)
+
+###Day 59 March 09, 2017
+
+**Today's Progress**: Learned some stuff about xib files and overlays!
+
+**Thoughts**: Nice day! Learned a lot of stuff about xib files and custom overlays. Did one for a custom camera and played around with the button styles. 
+
+**Link to work**: [iOS simplecam GitHub repository](https://github.com/yOoMarvin/simplecam)
