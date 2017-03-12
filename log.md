@@ -454,6 +454,22 @@
 
 **Today's Progress**: Learned some stuff about xib files and overlays!
 
-**Thoughts**: Nice day! Learned a lot of stuff about xib files and custom overlays. Did one for a custom camera and played around with the button styles. 
+**Thoughts**: Nice day! Learned a lot of stuff about xib files and custom overlays. Did one for a custom camera and played around with the button styles.
+
+**Link to work**: [iOS simplecam GitHub repository](https://github.com/yOoMarvin/simplecam)
+
+###Day 60 March 11, 2017
+
+**Today's Progress**: Read some stuff and learned about the wwdc 2017 scholarship!
+
+**Thoughts**: After a Friday break yesterday I've read a lot of stuff about swift 3 and the whole family. Also learned about this pretty cool scholarship from apple for the wwdc 2017 and I will definitely do something here!
+
+**Link to work**: [WWDC scholarship](https://developer.apple.com/wwdc/scholarships/)
+
+###Day 61 March 12, 2017
+
+**Today's Progress**: Finished my custom camera app!
+
+**Thoughts**: Damn what a productive sunday! Finished my camera app with core data and all the stuff you wish. Now I will try some stuff out for the scholarship
 
 **Link to work**: [iOS simplecam GitHub repository](https://github.com/yOoMarvin/simplecam)
