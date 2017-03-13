@@ -473,3 +473,11 @@
 **Thoughts**: Damn what a productive sunday! Finished my camera app with core data and all the stuff you wish. Now I will try some stuff out for the scholarship
 
 **Link to work**: [iOS simplecam GitHub repository](https://github.com/yOoMarvin/simplecam)
+
+###Day 62 March 13, 2017
+
+**Today's Progress**: Started a new app project! Giving out some motivational quotes!
+
+**Thoughts**: I've already did an webapp or better called simple codepen project that does this. But I think it's a good idead to do this as an iOS project. This will be cool I think, I have some things in my mind. Stay tuned!
+
+**Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
