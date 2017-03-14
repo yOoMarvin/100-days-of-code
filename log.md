@@ -481,3 +481,11 @@
 **Thoughts**: I've already did an webapp or better called simple codepen project that does this. But I think it's a good idead to do this as an iOS project. This will be cool I think, I have some things in my mind. Stay tuned!
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
+
+###Day 63 March 14, 2017
+
+**Today's Progress**: Not much time today in the train but I did some concept stuff on the new app!
+
+**Thoughts**: No code, that makes me said... but I did some concept stuff which is also really important! Hope to be back at coding tomorrow!
+
+**Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
