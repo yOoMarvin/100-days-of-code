@@ -489,3 +489,11 @@
 **Thoughts**: No code, that makes me said... but I did some concept stuff which is also really important! Hope to be back at coding tomorrow!
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
+
+###Day 64 March 15, 2017
+
+**Today's Progress**: Checked some stuff for the api and the processing in playground
+
+**Thoughts**: Did the last little checks for the future work. Checked out the API and did some JSON processing stuff. Ready to jump right into it now!
+
+**Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
