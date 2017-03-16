@@ -497,3 +497,11 @@
 **Thoughts**: Did the last little checks for the future work. Checked out the API and did some JSON processing stuff. Ready to jump right into it now!
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
+
+###Day 65 March 16, 2017
+
+**Today's Progress**: Did big part of the quote app!
+
+**Thoughts**: Added the data model, and downloading of JSON data. Maybe I should find a new API because the one I'm using is still HTTP. But first try to get the JSON stuff working.
+
+**Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
