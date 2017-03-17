@@ -505,3 +505,11 @@
 **Thoughts**: Added the data model, and downloading of JSON data. Maybe I should find a new API because the one I'm using is still HTTP. But first try to get the JSON stuff working.
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
+
+###Day 66 March 16, 2017
+
+**Today's Progress**: Fixed Bugs for JSON processing!
+
+**Thoughts**: Puh, that was a tricky one. Somehow the API I've used does not work the way I want it to work and I had to play a bit with the JSON processing. But now everything works and I just have to extract some stuff from the data!
+
+**Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
