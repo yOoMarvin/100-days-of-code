@@ -506,10 +506,18 @@
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
 
-###Day 66 March 16, 2017
+###Day 66 March 17, 2017
 
 **Today's Progress**: Fixed Bugs for JSON processing!
 
 **Thoughts**: Puh, that was a tricky one. Somehow the API I've used does not work the way I want it to work and I had to play a bit with the JSON processing. But now everything works and I just have to extract some stuff from the data!
+
+**Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
+
+###Day 67 March 19, 2017
+
+**Today's Progress**: Reworked some stuff for API connection and pulled out the data of that filthy format!
+
+**Thoughts**: Nice day! Back at it after the weekend! Finally pulled the data out in nice format. Now trying to display it in the view and make some stuff more beautiful.
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
