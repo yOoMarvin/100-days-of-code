@@ -522,10 +522,19 @@
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
 
-###Day 68 March 19, 2017
+###Day 68 March 20, 2017
 
 **Today's Progress**: Quoty is getting bigger and bigger! Quotes are displayed in the view now!
 
 **Thoughts**: Wuhu, my little project grows. And it looks really good! But I've also found an interesting bug... the quote is the same every time. If I call the URL in the Browser I get always different ones. Maybe something with the API or the app transportation. Have to check this out tomorrow.
+
+**Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
+
+
+###Day 69 March 21, 2017
+
+**Today's Progress**: Got stuck on a tricky bug and trief a few things out
+
+**Thoughts**: Meh, this isn't cool. There is a little bug that I have encountered yesterday. Really got stuck into it. Trying new solutions tomorrow!
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
