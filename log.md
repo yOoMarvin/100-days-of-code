@@ -533,8 +533,16 @@
 
 ###Day 69 March 21, 2017
 
-**Today's Progress**: Got stuck on a tricky bug and trief a few things out
+**Today's Progress**: Got stuck on a tricky bug and tried a few things out
 
 **Thoughts**: Meh, this isn't cool. There is a little bug that I have encountered yesterday. Really got stuck into it. Trying new solutions tomorrow!
+
+**Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
+
+###Day 70 March 22, 2017
+
+**Today's Progress**: Good day! Fixed the bug and have a ready to show app!
+
+**Thoughts**: Changed the API call and voila, everything works fine. Added some todos for better usability. I think I will finish this one this week!
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
