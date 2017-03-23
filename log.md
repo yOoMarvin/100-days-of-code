@@ -546,3 +546,11 @@
 **Thoughts**: Changed the API call and voila, everything works fine. Added some todos for better usability. I think I will finish this one this week!
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
+
+###Day 71 March 23, 2017
+
+**Today's Progress**: Added the tweet function, so now you can tweet your favorite quotes!
+
+**Thoughts**: Got social today and used the iOS social kit. Nice one today!
+
+**Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
