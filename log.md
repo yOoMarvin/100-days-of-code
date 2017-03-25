@@ -554,3 +554,11 @@
 **Thoughts**: Got social today and used the iOS social kit. Nice one today!
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
+
+###Day 72 March 25, 2017
+
+**Today's Progress**: Finished the main part of my quote app!
+
+**Thoughts**: Wuhu! Nice The app is actually finished. Maybe I will try some stuff with widgets. Tuned for next projects!
+
+**Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
