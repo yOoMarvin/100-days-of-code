@@ -562,3 +562,11 @@
 **Thoughts**: Wuhu! Nice The app is actually finished. Maybe I will try some stuff with widgets. Tuned for next projects!
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
+
+###Day 73 March 26, 2017
+
+**Today's Progress**: Cleaned up some problems and errors. Finished the project!
+
+**Thoughts**: Decided to do the widget stuff in future. There are still some things on my list for the coding challenge that I want to try out. So for now, I've finished the little project! This one was reeeelly cool!
+
+**Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
