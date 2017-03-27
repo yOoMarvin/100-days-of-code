@@ -570,3 +570,11 @@
 **Thoughts**: Decided to do the widget stuff in future. There are still some things on my list for the coding challenge that I want to try out. So for now, I've finished the little project! This one was reeeelly cool!
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
+
+###Day 74 March 27, 2017
+
+**Today's Progress**: Getting into challenge mode and started my little project for the WWDC2017 [scholarship](https://developer.apple.com/wwdc/scholarships/).
+
+**Thoughts**: So, finally I've got into this stuff! So hyped! First... learn about cool animations and stuff you can do in the playgrounds and then from 0 to 100 coding that thing down. Already have something in my mind. Really minimalistic, but with a clear message. Stay tuned! Oh, after the submission deadline I will make the repository public, so you can see my work. For now this has to be private. I think you can understand this ;)
+
+**Link to work**: [playground for WWDC2017 GitHub repository](https://github.com/yOoMarvin/wwdc2017)
