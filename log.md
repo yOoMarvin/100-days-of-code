@@ -579,10 +579,10 @@
 
 **Link to work**: [playground for WWDC2017 GitHub repository](https://github.com/yOoMarvin/wwdc2017)
 
-###Day 75 March 27, 2017
+###Day 75 March 28, 2017
 
 **Today's Progress**: Still getting started and trying things out in playgrounds.
 
-**Thoughts**: Get a feeling of this challenge and try some stuff out. 
+**Thoughts**: Get a feeling of this challenge and try some stuff out.
 
 **Link to work**: [playground for WWDC2017 GitHub repository](https://github.com/yOoMarvin/wwdc2017)
