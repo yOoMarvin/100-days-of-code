@@ -586,3 +586,17 @@
 **Thoughts**: Get a feeling of this challenge and try some stuff out.
 
 **Link to work**: [playground for WWDC2017 GitHub repository](https://github.com/yOoMarvin/wwdc2017)
+
+###Day 76 March 29, 2017
+
+**Today's Progress**: No commits because of illness, read stuff about playgrounds ui prototyping
+
+**Link to work**: [playground for WWDC2017 GitHub repository](https://github.com/yOoMarvin/wwdc2017)
+
+###Day 77 March 30, 2017
+
+**Today's Progress**: Prototyped a custom view with some nice animations
+
+**Thoughts**: Slowly getting into it. But too slow... Sort the thoughts and try to make a descision tomorrow.
+
+**Link to work**: [playground for WWDC2017 GitHub repository](https://github.com/yOoMarvin/wwdc2017)
