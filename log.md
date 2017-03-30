@@ -597,6 +597,6 @@
 
 **Today's Progress**: Prototyped a custom view with some nice animations
 
-**Thoughts**: Slowly getting into it. But too slow... Sort the thoughts and try to make a descision tomorrow.
+**Thoughts**: Slowly getting into it. But too slow... Sort the thoughts and try to make a descision tomorrow
 
 **Link to work**: [playground for WWDC2017 GitHub repository](https://github.com/yOoMarvin/wwdc2017)
