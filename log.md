@@ -600,3 +600,11 @@
 **Thoughts**: Slowly getting into it. But too slow... Sort the thoughts and try to make a decision tomorrow
 
 **Link to work**: [playground for WWDC2017 GitHub repository](https://github.com/yOoMarvin/wwdc2017)
+
+###Day 78 March 31, 2017
+
+**Today's Progress**: Thrown the old project away and started a new one. Guess what? Back at games development!
+
+**Thoughts**: Unfortunately I had to put the playgrounds project with the wwdc2017 scholarship to the side. There was not enough time to bring out that result I've had in my had and when I'm doing such a challenge I want the result to be 100% as I expected. Maybe I will catch up this on. Definitely I will continue prototyping some custom views with animations in playgrounds. But for now things are put on hold. But I've started something new! Old passion that was really much fun back in the days of this challenge! IOS games development. After the pong game I'm going to build another classic! A spaceship game! So tuned for that one!
+
+**Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
