@@ -608,3 +608,11 @@
 **Thoughts**: Unfortunately I had to put the playgrounds project with the wwdc2017 scholarship to the side. There was not enough time to bring out that result I've had in my had and when I'm doing such a challenge I want the result to be 100% as I expected. Maybe I will catch up this on. Definitely I will continue prototyping some custom views with animations in playgrounds. But for now things are put on hold. But I've started something new! Old passion that was really much fun back in the days of this challenge! IOS games development. After the pong game I'm going to build another classic! A spaceship game! So tuned for that one!
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
+
+###Day 79 April 01, 2017
+
+**Today's Progress**: Got stuck in the physics for the app
+
+**Thoughts**: Played a bit around in the game scene and get to know the sprite kit more and more.
+
+**Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
