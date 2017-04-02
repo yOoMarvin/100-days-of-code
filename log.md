@@ -616,3 +616,11 @@
 **Thoughts**: Played a bit around in the game scene and get to know the sprite kit more and more.
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
+
+###Day 80 April 02, 2017
+
+**Today's Progress**: Finally I have some enemies for my little spaceship! Gamedev is awesome and so much fun!!!
+
+**Thoughts**: Reaaaally productive and fun coding sunday! Did a lot for that game app and I'm quite happy with the results. Did the score, some physics and the enemy alien spawn! Keep it up for the final phase!
+
+**Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
