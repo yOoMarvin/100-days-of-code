@@ -624,3 +624,11 @@
 **Thoughts**: Reaaaally productive and fun coding sunday! Did a lot for that game app and I'm quite happy with the results. Did the score, some physics and the enemy alien spawn! Keep it up for the final phase!
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
+
+###Day 80 April 03, 2017
+
+**Today's Progress**: Added the torpedo and the animations!
+
+**Thoughts**: Really learning to love the Sprite Kit! This is so much fun and you've got results so fast! Just awesome! Next up: Collisions, Scores, and detecting motions
+
+**Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
