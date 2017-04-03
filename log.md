@@ -625,7 +625,7 @@
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
 
-###Day 80 April 03, 2017
+###Day 81 April 03, 2017
 
 **Today's Progress**: Added the torpedo and the animations!
 
