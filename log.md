@@ -632,3 +632,11 @@
 **Thoughts**: Really learning to love the Sprite Kit! This is so much fun and you've got results so fast! Just awesome! Next up: Collisions, Scores, and detecting motions
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
+
+###Day 82 April 04, 2017
+
+**Today's Progress**: Played around with game scene and motions. But nothing productive
+
+**Thoughts**: Fun day today. Tried some stuff out and played a bit with things. Learning a lot and trying to create some new features! Also planning for the final phase of this challenge!
+
+**Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
