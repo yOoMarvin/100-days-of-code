@@ -640,3 +640,11 @@
 **Thoughts**: Fun day today. Tried some stuff out and played a bit with things. Learning a lot and trying to create some new features! Also planning for the final phase of this challenge!
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
+
+###Day 83 April 05, 2017
+
+**Today's Progress**: Pew Pew! Added the explosion and all this collision detection
+
+**Thoughts**: Got stuck a bit at the detection of the collision for the little characters, but I'm back at the productive side of things and I could manage to add the explosion. Let's move to motion detection! 
+
+**Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
