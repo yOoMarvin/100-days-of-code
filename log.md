@@ -656,3 +656,11 @@
 **Thoughts**: Trying out new things and get to know all the options. The end is near my friends! :)
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
+
+###Day 85 April 07, 2017
+
+**Today's Progress**: Added the motion detection to the game! Nearly finished!
+
+**Thoughts**: Whup whup, the main part of the game with all it's stuff is finished. Now I will also add some difficulties and a game screen and that game over stuff and so. This one is awesome!
+
+**Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
