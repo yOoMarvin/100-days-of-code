@@ -664,3 +664,11 @@
 **Thoughts**: Whup whup, the main part of the game with all it's stuff is finished. Now I will also add some difficulties and a game screen and that game over stuff and so. This one is awesome!
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
+
+###Day 86 April 09, 2017
+
+**Today's Progress**: New Stuff: Menu for the game!
+
+**Thoughts**: So to really finish the game I actually need to add the game over functionality and a menu with different difficulties and stuff like that. Let's do this!
+
+**Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
