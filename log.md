@@ -672,3 +672,11 @@
 **Thoughts**: So to really finish the game I actually need to add the game over functionality and a menu with different difficulties and stuff like that. Let's do this!
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
+
+###Day 87 April 09, 2017
+
+**Today's Progress**: Menu is finished!
+
+**Thoughts**: Good day and the game is getting more pretty. Added the menu and builded the scene visually in the SpriteKit Scene Editor. Also added the first button logic, so you can start new games. At first I was lost because the new scene wasn't displayed, but I've figured it out pretty fast :)
+
+**Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
