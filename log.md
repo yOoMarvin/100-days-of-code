@@ -673,10 +673,18 @@
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
 
-###Day 87 April 09, 2017
+###Day 87 April 10, 2017
 
 **Today's Progress**: Menu is finished!
 
 **Thoughts**: Good day and the game is getting more pretty. Added the menu and builded the scene visually in the SpriteKit Scene Editor. Also added the first button logic, so you can start new games. At first I was lost because the new scene wasn't displayed, but I've figured it out pretty fast :)
+
+**Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
+
+###Day 88 April 11, 2017
+
+**Today's Progress**: Added the button functionalities in menu and another difficulty!
+
+**Thoughts**: Nearly finished! Learned so much things with this little project! And it is so much fun! Now I have still to add some lives and a game over thing to the game and I'm finished.
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
