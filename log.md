@@ -688,3 +688,11 @@
 **Thoughts**: Nearly finished! Learned so much things with this little project! And it is so much fun! Now I have still to add some lives and a game over thing to the game and I'm finished.
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
+
+###Day 89 April 12, 2017
+
+**Today's Progress**: Added lives to the game!
+
+**Thoughts**: Just one more thing left. The game over screen. And maybe some highscores with core data. But for now I'm really happy with the results!
+
+**Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
