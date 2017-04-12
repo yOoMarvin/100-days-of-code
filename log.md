@@ -8,7 +8,7 @@
 
 **Link to work:** [GitHub repository](https://github.com/yOoMarvin/quote-machine) // [Codepen Project](http://codepen.io/yOoMarvin/full/Bzmqmx/)
 
-###Day 2: January 05, 2017
+### Day 2: January 05, 2017
 
 **Today's Progress**: Have made some progress on my FrontEndCertificate at FreeCodeCamp. Also worked a bit with npm and node.js. Nothing project related, just some foundations for future work. In the end of the day I've started my rework of the local weather webapp. And I tried a few things with heroku to deploy my apps.
 
@@ -16,7 +16,7 @@
 
 **Link to work**: [GitHub repository of weather app](https://github.com/yOoMarvin/local-weather) // [Link to webapp](https://yoomarvin-local-weather.herokuapp.com/index.html)
 
-###Day 3: January 06, 2017
+### Day 3: January 06, 2017
 
 **Today's Progress**: Finisehd the rework of the local weather app.
 
@@ -24,7 +24,7 @@
 
 **Link to work**:[GitHub repository of weather app](https://github.com/yOoMarvin/local-weather)
 
-###Day 4: January 08, 2017
+### Day 4: January 08, 2017
 
 **Today's Progress**: Started a new project for my FrontEndCertificate. The wikipedia viewer. Also did some node tutorials.
 
@@ -32,7 +32,7 @@
 
 **Link to work**:[GitHub repository of wiki viewer](https://github.com/yOoMarvin/wiki-viewer)
 
-###Day 5: January 09, 2017
+### Day 5: January 09, 2017
 
 **Today's Progress**: Continued working on the wiki viewer. Also read a lot about javascript.
 
@@ -40,7 +40,7 @@
 
 **Link to work**:[GitHub repository of wiki viewer](https://github.com/yOoMarvin/wiki-viewer)
 
-###Day 6: January 10, 2017
+### Day 6: January 10, 2017
 
 **Today's Progress**: Continued working on the wiki viewer. Completed the request and displayed the data
 
@@ -48,7 +48,7 @@
 
 **Link to work**:[GitHub repository of wiki viewer](https://github.com/yOoMarvin/wiki-viewer)
 
-###Day 7: January 11, 2017
+### Day 7: January 11, 2017
 
 **Today's Progress**: Finished the work on the wiki viewer. Bonus: Deployed it on heroku!
 
@@ -56,7 +56,7 @@
 
 **Link to work**:[GitHub repository of wiki viewer](https://github.com/yOoMarvin/wiki-viewer) // [Web App](https://yoomarvin-wikiviewer.herokuapp.com)
 
-###Day 8: January 12, 2017
+### Day 8: January 12, 2017
 
 **Today's Progress**: Nothing project related but I worked myself through some basic node.js stuff.
 
@@ -64,7 +64,7 @@
 
 **Link to work**:[Learnyounode](https://github.com/workshopper/learnyounode)
 
-###Day 9: January 13, 2017
+### Day 9: January 13, 2017
 
 **Today's Progress**: New project! Bitcoin price checker for the web!
 
@@ -72,7 +72,7 @@
 
 **Link to work**:[bitcoin price checker repository](https://github.com/yoomarvin/btccheck-web)
 
-###Day 10: January 16, 2017
+### Day 10: January 16, 2017
 
 **Today's Progress**: After a little break I'm back with my new project and it goes really well!
 
@@ -80,7 +80,7 @@
 
 **Link to work**:[bitcoin price checker repository](https://github.com/yoomarvin/btccheck-web)
 
-###Day 11: January 17, 2017
+### Day 11: January 17, 2017
 
 **Today's Progress**: Added a new page and fetched history data from api for my new project
 
@@ -88,7 +88,7 @@
 
 **Link to work**:[bitcoin price checker repository](https://github.com/yoomarvin/btccheck-web)
 
-###Day 12: January 18, 2017
+### Day 12: January 18, 2017
 
 **Today's Progress**: Finished the bitcoin webapp and worked myself through some node.js stuff.
 
@@ -96,7 +96,7 @@
 
 **Link to work**:[bitcoin price checker repository](https://github.com/yoomarvin/btccheck-web) || [bitcoin price checker webapp](https://yoomarvin-btccheck-web.herokuapp.com) || [node js getting started](https://github.com/heroku/node-js-getting-started)
 
-###Day 13: January 19, 2017
+### Day 13: January 19, 2017
 
 **Today's Progress**: Worked myself through the 'leanyounode' project and made a simple node app on heroku to get started. I also continued working on FreeCodeCamp at the backend certificate.
 
@@ -104,7 +104,7 @@
 
 **Link to work**:[heroku node app](https://yoomarvin-heroku-node.herokuapp.com/) || [learnyounode solutions](https://github.com/yOoMarvin/learnyounode-solutions)
 
-###Day 14: January 20, 2017
+### Day 14: January 20, 2017
 
 **Today's Progress**: Worked myself through the expressworks project and did some stuff with express.
 
@@ -112,7 +112,7 @@
 
 **Link to work**: [expressworks solutions](https://github.com/yOoMarvin/expressworks-solutions)
 
-###Day 15: January 21, 2017
+### Day 15: January 21, 2017
 
 **Today's Progress**: Started a new project! And it is nothing web related! Back at iOS development!!!
 
@@ -120,7 +120,7 @@
 
 **Link to work**: [hoturl github repository](https://github.com/yOoMarvin/hoturl)
 
-###Day 16: January 22, 2017
+### Day 16: January 22, 2017
 
 **Today's Progress**: Continued the work on my iOS app project and finished the work with the speech input und transcription to text
 
@@ -128,7 +128,7 @@
 
 **Link to work**: [hoturl github repository](https://github.com/yOoMarvin/hoturl)
 
-###Day 17: January 23, 2017
+### Day 17: January 23, 2017
 
 **Today's Progress**: Added the saving functionality to the url app. And also added comments
 
@@ -136,7 +136,7 @@
 
 **Link to work**: [hoturl github repository](https://github.com/yOoMarvin/hoturl)
 
-###Day 18: January 24, 2017
+### Day 18: January 24, 2017
 
 **Today's Progress**: Added Core Data functionality to the url app.
 
@@ -144,7 +144,7 @@
 
 **Link to work**: [hoturl github repository](https://github.com/yOoMarvin/hoturl)
 
-###Day 19: January 25, 2017
+### Day 19: January 25, 2017
 
 **Today's Progress**: Rework of the existing hot url ios app.
 
@@ -152,7 +152,7 @@
 
 **Link to work**: [hoturl github repository](https://github.com/yOoMarvin/hoturl)
 
-###Day 20: January 26, 2017
+### Day 20: January 26, 2017
 
 **Today's Progress**: Idea and preparation for a new app feature! Share extension!
 
@@ -160,13 +160,13 @@
 
 **Link to work**: [hoturl github repository](https://github.com/yOoMarvin/hoturl)
 
-###Day 21: January 27, 2017
+### Day 21: January 27, 2017
 
 **Today's Progress**: Pause today!
 
 **Link to work**: [hoturl github repository](https://github.com/yOoMarvin/hoturl)
 
-###Day 22: January 28, 2017
+### Day 22: January 28, 2017
 
 **Today's Progress**: Paused the hoturl app because of a problem and started a new one!
 
@@ -174,7 +174,7 @@
 
 **Link to work**: [hexhex ui](https://xd.adobe.com/view/60d6207b-cc6b-4acf-a0aa-8dddf24e07b6/)
 
-###Day 23: January 29, 2017
+### Day 23: January 29, 2017
 
 **Today's Progress**: Finished the concept of my new app and tried some things out.
 
@@ -182,7 +182,7 @@
 
 **Link to work**: [hexhex ui](https://xd.adobe.com/view/60d6207b-cc6b-4acf-a0aa-8dddf24e07b6/) || [hex converter gist](https://gist.github.com/yOoMarvin/9697835a722d72be7c485b3f1d2d3614)
 
-###Day 24: January 30, 2017
+### Day 24: January 30, 2017
 
 **Today's Progress**: Discovered Code Wars and really got lost into it.
 
@@ -190,7 +190,7 @@
 
 **Link to work**: [Code Wars](https://www.codewars.com/)
 
-###Day 25: January 31, 2017
+### Day 25: January 31, 2017
 
 **Today's Progress**: Started the new project in xCode
 
@@ -198,7 +198,7 @@
 
 **Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)
 
-###Day 26: February 01, 2017
+### Day 26: February 01, 2017
 
 **Today's Progress**: Today was a code wars day again! Did more swift katas and feelin good!
 
@@ -206,7 +206,7 @@
 
 **Link to work**: [Code Wars](https://www.codewars.com/)
 
-###Day 27: February 02, 2017
+### Day 27: February 02, 2017
 
 **Today's Progress**: Continued the new app! Played a bit with ui elements and dynamic changes
 
@@ -214,11 +214,11 @@
 
 **Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)
 
-###Day 28: February 03, 2017
+### Day 28: February 03, 2017
 
 **Today's Progress**: When you lay down in bed with nearly 40° C feever, you are not in the mood to code :(
 
-###Day 29: February 04, 2017
+### Day 29: February 04, 2017
 
 **Today's Progress**: Added some more logic and functionality to the app
 
@@ -226,7 +226,7 @@
 
 **Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)
 
-###Day 30: February 05, 2017
+### Day 30: February 05, 2017
 
 **Today's Progress**: Good Day. Started the rework of the app!
 
@@ -234,7 +234,7 @@
 
 **Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)
 
-###Day 31: February 06, 2017
+### Day 31: February 06, 2017
 
 **Today's Progress**: Did the other part of the logic for converting and fixed some bugs. Also improved the structure
 
@@ -242,7 +242,7 @@
 
 **Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)
 
-###Day 32: February 07, 2017
+### Day 32: February 07, 2017
 
 **Today's Progress**: A lot of improvement for the color converter and nearly finished the design
 
@@ -250,7 +250,7 @@
 
 **Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)     
 
-###Day 33 February 08, 2017
+### Day 33 February 08, 2017
 
 **Today's Progress**: Finished my iOS App!
 
@@ -258,7 +258,7 @@
 
 **Link to work**: [hexhex github repo](https://github.com/yOoMarvin/hexhex)   
 
-###Day 34 February 09, 2017
+### Day 34 February 09, 2017
 
 **Today's Progress**: New challenge? Making an iOS game!
 
@@ -268,7 +268,7 @@
 
 **Going to make a little break over the weekend. I'm also setting new goals, think of new ideas and read a lot, so no real breal, just now coding. I think I will continue Monday with Day 35.**
 
-###Day 35 February 13, 2017
+### Day 35 February 13, 2017
 
 **Today's Progress**: Continued the iOS game and it makes so much fun!
 
@@ -276,7 +276,7 @@
 
 **Link to work**: [pong github repo](https://github.com/yOoMarvin/pong)
 
-###Day 36 February 14, 2017
+### Day 36 February 14, 2017
 
 **Today's Progress**: Finished my first iOS game!
 
@@ -284,7 +284,7 @@
 
 **Link to work**: [pong github repo](https://github.com/yOoMarvin/pong)
 
-###Day 37 February 15, 2017
+### Day 37 February 15, 2017
 
 **Today's Progress**: Started a new iOS app to get familiar with app localization. For example switch texts on language change etc.
 
@@ -292,7 +292,7 @@
 
 **Link to work**: [zoo ios localization repo](https://github.com/yOoMarvin/zoo-ios-localization)
 
-###Day 38 February 16, 2017
+### Day 38 February 16, 2017
 
 **Today's Progress**: Continued the work with ios localization and made basic translations.
 
@@ -300,7 +300,7 @@
 
 **Link to work**: [zoo ios localization repo](https://github.com/yOoMarvin/zoo-ios-localization)
 
-###Day 39 February 17, 2017
+### Day 39 February 17, 2017
 
 **Today's Progress**: Finished the example app for ios localization.
 
@@ -308,7 +308,7 @@
 
 **Link to work**: [zoo ios localization repo](https://github.com/yOoMarvin/zoo-ios-localization)
 
-###Day 40 February 18, 2017
+### Day 40 February 18, 2017
 
 **Today's Progress**: Did some coding katas on code wars.
 
@@ -316,7 +316,7 @@
 
 **Link to work**: [Code Wars](https://www.codewars.com/)
 
-###Day 41 February 19, 2017
+### Day 41 February 19, 2017
 
 **Today's Progress**: Started a knew app and thought of new app projects
 
@@ -324,17 +324,17 @@
 
 **Link to work**: [simple seconds timer github repo](https://github.com/yOoMarvin/simpleseconds-ios-timer)
 
-###Day 42 February 20, 2017
+### Day 42 February 20, 2017
 
 **Today's Progress**: No Coding, but read a lot of articles.
 
 **Thoughts**: Well, no coding is not true, I did some swift katas on code wars, but I did not do something project related.
 
-###Day 43 February 21, 2017
+### Day 43 February 21, 2017
 
 **Today's Progress**: Paused for today! Back with the timer app tomorrow
 
-###Day 44 February 22, 2017
+### Day 44 February 22, 2017
 
 **Today's Progress**: Continued the work on the timer app and got basic stuff with notifications done.
 
@@ -342,7 +342,7 @@
 
 **Link to work**: [simple seconds timer github repo](https://github.com/yOoMarvin/simpleseconds-ios-timer)
 
-###Day 45 February 23, 2017
+### Day 45 February 23, 2017
 
 **Today's Progress**: Finished the timer app in the main parts!
 
@@ -350,7 +350,7 @@
 
 **Link to work**: [simple seconds timer github repo](https://github.com/yOoMarvin/simpleseconds-ios-timer)
 
-###Day 46 February 24, 2017
+### Day 46 February 24, 2017
 
 **Today's Progress**: Did some code wars challenges!
 
@@ -358,11 +358,11 @@
 
 **Link to work**: [Code Wars](https://www.codewars.com/)
 
-###Day 47 February 25, 2017
+### Day 47 February 25, 2017
 
 **Today's Progress**: Paused today on this awesome sunny day!
 
-###Day 48 February 26, 2017
+### Day 48 February 26, 2017
 
 **Today's Progress**: Did some code wars challenges again. Thinking of new app ideas
 
@@ -370,7 +370,7 @@
 
 **Link to work**: [Code Wars](https://www.codewars.com/)
 
-###Day 49 February 27, 2017
+### Day 49 February 27, 2017
 
 **Today's Progress**: Read a lot of stuff and started a new iOS app! A simple xml feed reader
 
@@ -378,7 +378,7 @@
 
 **Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
 
-###Day 50 February 28, 2017
+### Day 50 February 28, 2017
 
 **Today's Progress**: Worked with the CollectionView and the layout of cells for the reader app!
 
@@ -386,7 +386,7 @@
 
 **Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
 
-###Day 51 March 01, 2017
+### Day 51 March 01, 2017
 
 **Today's Progress**: Read some articles and got stuck on XML stuff.
 
@@ -394,7 +394,7 @@
 
 **Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
 
-###Day 52 March 02, 2017
+### Day 52 March 02, 2017
 
 **Today's Progress**: Finally fixed my xml bug and articles are displayed now!
 
@@ -402,7 +402,7 @@
 
 **Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
 
-###Day 53 March 03, 2017
+### Day 53 March 03, 2017
 
 **Today's Progress**: Continued the work on the reader app and made improvments to the layout
 
@@ -410,7 +410,7 @@
 
 **Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
 
-###Day 54 March 04, 2017
+### Day 54 March 04, 2017
 
 **Today's Progress**: Not much today, but something! Added just some usability things
 
@@ -418,7 +418,7 @@
 
 **Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
 
-###Day 55 March 05, 2017
+### Day 55 March 05, 2017
 
 **Today's Progress**: Added the detail web view for articles!
 
@@ -426,7 +426,7 @@
 
 **Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
 
-###Day 56 March 06, 2017
+### Day 56 March 06, 2017
 
 **Today's Progress**: Finished my reader app!
 
@@ -434,7 +434,7 @@
 
 **Link to work**: [iOS reader GitHub repository](https://github.com/yOoMarvin/reader)
 
-###Day 57 March 07, 2017
+### Day 57 March 07, 2017
 
 **Today's Progress**: Code Wars day!
 
@@ -442,7 +442,7 @@
 
 **Link to work**: [Code Wars](https://www.codewars.com/)
 
-###Day 58 March 08, 2017
+### Day 58 March 08, 2017
 
 **Today's Progress**: Started a new project!
 
@@ -450,7 +450,7 @@
 
 **Link to work**: [iOS simplecam GitHub repository](https://github.com/yOoMarvin/simplecam)
 
-###Day 59 March 09, 2017
+### Day 59 March 09, 2017
 
 **Today's Progress**: Learned some stuff about xib files and overlays!
 
@@ -458,7 +458,7 @@
 
 **Link to work**: [iOS simplecam GitHub repository](https://github.com/yOoMarvin/simplecam)
 
-###Day 60 March 11, 2017
+### Day 60 March 11, 2017
 
 **Today's Progress**: Read some stuff and learned about the wwdc 2017 scholarship!
 
@@ -466,7 +466,7 @@
 
 **Link to work**: [WWDC scholarship](https://developer.apple.com/wwdc/scholarships/)
 
-###Day 61 March 12, 2017
+### Day 61 March 12, 2017
 
 **Today's Progress**: Finished my custom camera app!
 
@@ -474,7 +474,7 @@
 
 **Link to work**: [iOS simplecam GitHub repository](https://github.com/yOoMarvin/simplecam)
 
-###Day 62 March 13, 2017
+### Day 62 March 13, 2017
 
 **Today's Progress**: Started a new app project! Giving out some motivational quotes!
 
@@ -482,7 +482,7 @@
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
 
-###Day 63 March 14, 2017
+### Day 63 March 14, 2017
 
 **Today's Progress**: Not much time today in the train but I did some concept stuff on the new app!
 
@@ -490,7 +490,7 @@
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
 
-###Day 64 March 15, 2017
+### Day 64 March 15, 2017
 
 **Today's Progress**: Checked some stuff for the api and the processing in playground
 
@@ -498,7 +498,7 @@
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
 
-###Day 65 March 16, 2017
+### Day 65 March 16, 2017
 
 **Today's Progress**: Did big part of the quote app!
 
@@ -506,7 +506,7 @@
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
 
-###Day 66 March 17, 2017
+### Day 66 March 17, 2017
 
 **Today's Progress**: Fixed Bugs for JSON processing!
 
@@ -514,7 +514,7 @@
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
 
-###Day 67 March 19, 2017
+### Day 67 March 19, 2017
 
 **Today's Progress**: Reworked some stuff for API connection and pulled out the data of that filthy format!
 
@@ -522,7 +522,7 @@
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
 
-###Day 68 March 20, 2017
+### Day 68 March 20, 2017
 
 **Today's Progress**: Quoty is getting bigger and bigger! Quotes are displayed in the view now!
 
@@ -531,7 +531,7 @@
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
 
 
-###Day 69 March 21, 2017
+### Day 69 March 21, 2017
 
 **Today's Progress**: Got stuck on a tricky bug and tried a few things out
 
@@ -539,7 +539,7 @@
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
 
-###Day 70 March 22, 2017
+### Day 70 March 22, 2017
 
 **Today's Progress**: Good day! Fixed the bug and have a ready to show app!
 
@@ -547,7 +547,7 @@
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
 
-###Day 71 March 23, 2017
+### Day 71 March 23, 2017
 
 **Today's Progress**: Added the tweet function, so now you can tweet your favorite quotes!
 
@@ -555,7 +555,7 @@
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
 
-###Day 72 March 25, 2017
+### Day 72 March 25, 2017
 
 **Today's Progress**: Finished the main part of my quote app!
 
@@ -563,7 +563,7 @@
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
 
-###Day 73 March 26, 2017
+### Day 73 March 26, 2017
 
 **Today's Progress**: Cleaned up some problems and errors. Finished the project!
 
@@ -571,7 +571,7 @@
 
 **Link to work**: [quoty for iOS GitHub repository](https://github.com/yOoMarvin/quoty)
 
-###Day 74 March 27, 2017
+### Day 74 March 27, 2017
 
 **Today's Progress**: Getting into challenge mode and started my little project for the WWDC2017 [scholarship](https://developer.apple.com/wwdc/scholarships/).
 
@@ -579,7 +579,7 @@
 
 **Link to work**: [playground for WWDC2017 GitHub repository](https://github.com/yOoMarvin/wwdc2017)
 
-###Day 75 March 28, 2017
+### Day 75 March 28, 2017
 
 **Today's Progress**: Still getting started and trying things out in playgrounds.
 
@@ -587,13 +587,13 @@
 
 **Link to work**: [playground for WWDC2017 GitHub repository](https://github.com/yOoMarvin/wwdc2017)
 
-###Day 76 March 29, 2017
+### Day 76 March 29, 2017
 
 **Today's Progress**: No commits because of illness, read stuff about playgrounds ui prototyping
 
 **Link to work**: [playground for WWDC2017 GitHub repository](https://github.com/yOoMarvin/wwdc2017)
 
-###Day 77 March 30, 2017
+### Day 77 March 30, 2017
 
 **Today's Progress**: Prototyped a custom view with some nice animations
 
@@ -601,7 +601,7 @@
 
 **Link to work**: [playground for WWDC2017 GitHub repository](https://github.com/yOoMarvin/wwdc2017)
 
-###Day 78 March 31, 2017
+### Day 78 March 31, 2017
 
 **Today's Progress**: Thrown the old project away and started a new one. Guess what? Back at games development!
 
@@ -609,7 +609,7 @@
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
 
-###Day 79 April 01, 2017
+### Day 79 April 01, 2017
 
 **Today's Progress**: Got stuck in the physics for the app
 
@@ -617,7 +617,7 @@
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
 
-###Day 80 April 02, 2017
+### Day 80 April 02, 2017
 
 **Today's Progress**: Finally I have some enemies for my little spaceship! Gamedev is awesome and so much fun!!!
 
@@ -625,7 +625,7 @@
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
 
-###Day 81 April 03, 2017
+### Day 81 April 03, 2017
 
 **Today's Progress**: Added the torpedo and the animations!
 
@@ -633,7 +633,7 @@
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
 
-###Day 82 April 04, 2017
+### Day 82 April 04, 2017
 
 **Today's Progress**: Played around with game scene and motions. But nothing productive
 
@@ -641,7 +641,7 @@
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
 
-###Day 83 April 05, 2017
+### Day 83 April 05, 2017
 
 **Today's Progress**: Pew Pew! Added the explosion and all this collision detection
 
@@ -649,7 +649,7 @@
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
 
-###Day 84 April 06, 2017
+### Day 84 April 06, 2017
 
 **Today's Progress**: Played around with the motion stuff.
 
@@ -657,7 +657,7 @@
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
 
-###Day 85 April 07, 2017
+### Day 85 April 07, 2017
 
 **Today's Progress**: Added the motion detection to the game! Nearly finished!
 
@@ -665,7 +665,7 @@
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
 
-###Day 86 April 09, 2017
+### Day 86 April 09, 2017
 
 **Today's Progress**: New Stuff: Menu for the game!
 
@@ -673,7 +673,7 @@
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
 
-###Day 87 April 10, 2017
+### Day 87 April 10, 2017
 
 **Today's Progress**: Menu is finished!
 
@@ -681,7 +681,7 @@
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
 
-###Day 88 April 11, 2017
+### Day 88 April 11, 2017
 
 **Today's Progress**: Added the button functionalities in menu and another difficulty!
 
@@ -689,7 +689,7 @@
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
 
-###Day 89 April 12, 2017
+### Day 89 April 12, 2017
 
 **Today's Progress**: Added lives to the game!
 
