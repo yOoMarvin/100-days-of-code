@@ -696,3 +696,11 @@
 **Thoughts**: Just one more thing left. The game over screen. And maybe some highscores with core data. But for now I'm really happy with the results!
 
 **Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
+
+### Day 90 April 13, 2017
+
+**Today's Progress**: Finished the game!!!
+
+**Thoughts**: Man, that was a long one, but learned sooo much with it! Finished the game by adding the game over functionality. No moving on to the last 10 days of this challenge! One last app!
+
+**Link to work**: [Spacegame GitHub repository](https://github.com/yOoMarvin/spacegame)
