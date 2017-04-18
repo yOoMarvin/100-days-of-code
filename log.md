@@ -712,3 +712,11 @@
 **Thoughts**: Man, the last 10 days... Doing something special now. I will do a little iOS app that is a kind of a project overview for the apps I've created in this challenge. And I will be building this one without interface builder to learn some more stuff about UIKit elements. This will be great!
 
 **Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
+
+### Day 92 April 17, 2017
+
+**Today's Progress**: Added structure to the project, think about ui and concepts and
+
+**Thoughts**: Puh, hard day today. Actually it was a pretty stupid idea to code an app without storyboard that is primarily focused on ui stuff. So I've decided to do the basic stuff in with the help of IB. The UI Sketches look awesome and the first screen is also pretty nice! Tuned for more!
+
+**Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
