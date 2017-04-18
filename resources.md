@@ -24,6 +24,10 @@
 10. [Zoo iOS app about localization](https://github.com/yOoMarvin/zoo-ios-localization)
 11. [Simple Seconds iOS timer](https://github.com/yOoMarvin/simpleseconds-ios-timer)
 12. [iOS reader](https://github.com/yOoMarvin/reader)
+13. [iOS simplecam](https://github.com/yOoMarvin/simplecam)
+14. [iOS quoty app for cool quotes](https://github.com/yOoMarvin/quoty)
+15. [iOS Spacegame](https://github.com/yOoMarvin/spacegame)
+16. [Overview app for 100DaysOfCode](https://github.com/yOoMarvin/my-100daysofcode-app)
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
