@@ -18,7 +18,7 @@
 
 ### Day 3: January 06, 2017
 
-**Today's Progress**: Finisehd the rework of the local weather app.
+**Today's Progress**: Finished the rework of the local weather app.
 
 **Thoughts**: Again nothing too complicated today. Just getting things started. Building foundations and making more complex stuff in the future is a goal.
 
@@ -718,5 +718,13 @@
 **Today's Progress**: Added structure to the project, think about ui and concepts and
 
 **Thoughts**: Puh, hard day today. Actually it was a pretty stupid idea to code an app without storyboard that is primarily focused on ui stuff. So I've decided to do the basic stuff in with the help of IB. The UI Sketches look awesome and the first screen is also pretty nice! Tuned for more!
+
+**Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
+
+### Day 93 April 17, 2017
+
+**Today's Progress**: Finished the overview screen and played around with page view controllers
+
+**Thoughts**: This thing looks pretty awesome I have to say... and I'm still learning stuff. Today I added more pages to the design and played around with an element I didn't used before. The page view controller. Excited to learn more!
 
 **Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
