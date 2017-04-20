@@ -713,7 +713,7 @@
 
 **Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
 
-### Day 92 April 17, 2017
+### Day 92 April 18, 2017
 
 **Today's Progress**: Added structure to the project, think about ui and concepts and
 
@@ -721,10 +721,18 @@
 
 **Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
 
-### Day 93 April 17, 2017
+### Day 93 April 19, 2017
 
 **Today's Progress**: Finished the overview screen and played around with page view controllers
 
 **Thoughts**: This thing looks pretty awesome I have to say... and I'm still learning stuff. Today I added more pages to the design and played around with an element I didn't used before. The page view controller. Excited to learn more!
+
+**Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
+
+### Day 94 April 20, 2017
+
+**Today's Progress**: Finished the first part, the web projects!
+
+**Thoughts**: Coding this thing down in top speed! Added PageViewController and all the subsides for the web projects. Now moving on to the biggest part. The Apps. Also doing the complete design in adobe XD!
 
 **Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
