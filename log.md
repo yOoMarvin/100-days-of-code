@@ -736,3 +736,11 @@
 **Thoughts**: Coding this thing down in top speed! Added PageViewController and all the subsides for the web projects. Now moving on to the biggest part. The Apps. Also doing the complete design in adobe XD!
 
 **Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
+
+### Day 95 April 23, 2017
+
+**Today's Progress**: Started with the app projects for the app!
+
+**Thoughts**: The last two days were a bit focused on design stuff, but now I'm back with new view coding and design implementations! Nothing special, but trying to bring a little bit of variations into it. Excited for the next steps
+
+**Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
