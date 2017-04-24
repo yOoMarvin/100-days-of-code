@@ -744,3 +744,11 @@
 **Thoughts**: The last two days were a bit focused on design stuff, but now I'm back with new view coding and design implementations! Nothing special, but trying to bring a little bit of variations into it. Excited for the next steps
 
 **Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
+
+### Day 96 April 24, 2017
+
+**Today's Progress**: Added new designs and projects to screen
+
+**Thoughts**: Same, same but different. Added some more projects to the overview app and worked on some designs. Finishing this tomorrow and then merge to the master!
+
+**Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
