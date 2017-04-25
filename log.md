@@ -752,3 +752,11 @@
 **Thoughts**: Same, same but different. Added some more projects to the overview app and worked on some designs. Finishing this tomorrow and then merge to the master!
 
 **Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
+
+### Day 97 April 25, 2017
+
+**Today's Progress**: Last few days and I've finished the part for the app projects!
+
+**Thoughts**: Last app projects and design things. Now moving on to the last little tweeks to make this one perfect!
+
+**Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
