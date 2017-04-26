@@ -760,3 +760,11 @@
 **Thoughts**: Last app projects and design things. Now moving on to the last little tweeks to make this one perfect!
 
 **Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
+
+### Day 98 April 26, 2017
+
+**Today's Progress**: Added all the images to the project screens.
+
+**Thoughts**: Final days with and so much fun with this project! Really comfortable with ios and swift now! :)
+
+**Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
