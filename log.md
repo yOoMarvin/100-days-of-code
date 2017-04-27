@@ -768,3 +768,11 @@
 **Thoughts**: Final days with and so much fun with this project! Really comfortable with ios and swift now! :)
 
 **Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
+
+### Day 98.5 April 27, 2017
+
+**Today's Progress**: Reworked image layouts and added new init views
+
+**Thoughts**: So much work in the last two days! So I have to log only a half day today, to make sure I will be finished after 100 days ;)
+
+**Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
