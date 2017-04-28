@@ -776,3 +776,11 @@
 **Thoughts**: So much work in the last two days! So I have to log only a half day today, to make sure I will be finished after 100 days ;)
 
 **Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
+
+### Day 99 April 28, 2017
+
+**Today's Progress**: Finished most of the stuff for app! Tomorrow some final adjustments
+
+**Thoughts**: Wuhu, what an awesome day! Made so much stuff for the app. New View, links, and other stuff! Tomorrow I will finish it!
+
+**Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
