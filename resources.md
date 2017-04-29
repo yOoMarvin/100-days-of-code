@@ -41,6 +41,9 @@
 9. [Coding Dojo Katas](http://codingdojo.org/kata/)
 
 ## Tools
+1. xCode
+2. Atom
+3. Good Headphones!
 
 ## Books (both coding and non-coding)
 
