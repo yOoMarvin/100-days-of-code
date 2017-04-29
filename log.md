@@ -784,3 +784,11 @@
 **Thoughts**: Wuhu, what an awesome day! Made so much stuff for the app. New View, links, and other stuff! Tomorrow I will finish it!
 
 **Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
+
+### Day 100 April 19, 2017
+
+**Today's Progress**: Finished the last app, and this crazy awesome challenge!
+
+**Thoughts**: Oh my god I did it. 100 Days of Code are over and this challenge was just amazing! I've learned so many things, met awesome people and cded awesome projects. Thanks to every single one of you! I will be back!
+
+**Link to work**: [100DaysOfCode App GitHub repository](https://github.com/yOoMarvin/my-100daysofcode-app)
